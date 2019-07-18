@@ -14,20 +14,20 @@ Artista - Gabriella Lopes - gabriellablopes@gmail.com
 Programadora - Karen Krieger - karen.krieger.derraik@gmail.com
 
 -----------------------------------------------------------------------------
-Apresentaçao
+Apresentação
 -----------------------------------------------------------------------------
-MOTO LOKO eh um jogo de velocidade que desafia a seguranca e as leis de 
-transito! Vocêe vai incorporar o motoqueiro louco dentro de você!
+MOTO LOKO é um jogo de velocidade que desafia a segurança e as leis de 
+trânsito! Vocêe vai incorporar o motoqueiro louco dentro de você!
 
 -----------------------------------------------------------------------------
 Requerimentos de Sistema
 -----------------------------------------------------------------------------
-<Especifiçoes Tecnicas>
+<Especifições Técnicas>
 
 1. Windows 7 ou superior 
 
 -----------------------------------------------------------------------------
-Instalaçao
+Instalação
 -----------------------------------------------------------------------------
 <Como instalar o jogo>
 
@@ -41,14 +41,14 @@ Enter -- Iniciar e reiniciar
 Seta para cima -- Move para cima
 Seta para baixo -- Move para baixo
 -----------------------------------------------------------------------------
-<InformaÁıes sobre dispositivos e usos>
+<Informações sobre dispositivos e usos>
 
-1.  PC Windowns
+1. PC Windowns
 2. Teclado
 3. Caixa de som
 
 
-Creditos
+Créditos
 ------------------------
 Artista		:Gabriella Lopes | gabriellablopes@gmail.com
 Programador	:Karen Krieger | karen.krieger.derraik@gmail.com
