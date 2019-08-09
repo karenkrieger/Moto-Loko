@@ -17,7 +17,7 @@ Programadora - Karen Krieger - karen.krieger.derraik@gmail.com
 Apresentação
 -----------------------------------------------------------------------------
 MOTO LOKO é um jogo de velocidade que desafia a segurança e as leis de 
-trânsito! Vocêe vai incorporar o motoqueiro louco dentro de você!
+trânsito! Você vai incorporar o motoqueiro louco dentro de você!
 
 -----------------------------------------------------------------------------
 Requerimentos de Sistema
